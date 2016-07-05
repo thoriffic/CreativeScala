@@ -32,21 +32,39 @@ object Week5 {
     Turtle.draw(iter(sides))
   }
 
-  def spiralSquare(iterations: Int, rotation: Int): Image = {
+  def spiralSquare(iterations: Int, rotation: Double): Image = {
     def iter(n: Int): List[Instruction] = {
       n match {
         case 0 => Nil
-        case iterations => turn(90.degrees) :: forward(n - 1) :: turn ::iter(n - 1)
+        case n => turn(rotation.degrees) :: forward((iterations - n) * 2) :: iter(n - 1)
       }
     }
+    Turtle.draw(iter(iterations))
   }
 
   def double[A](in: List[A]): List[A] = {
     in.flatMap { x => List(x, x) }
   }
 
+/*
   def rewrite(instructions: List[Instruction], rule: Instruction => List[Instruction]): List[Instruction] = {
     instructions.flatMap { x => List(rule) }
 
+  }
+*/
+
+}
+
+object Branch {
+  val stepSize = 10
+
+  def rule(i: Instruction): List[Instruction] = {
+    i match {
+      case For(_) => List(forward(stepSize), forward(stepSize))
+      case NoOp =>
+        List(branch(turn(45.degrees), forward(stepSize), noop),
+          branch(turn(-45.degrees), forward(stepSize), noop))
+      case other => List(other)
+    }
   }
 }
