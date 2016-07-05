@@ -1,0 +1,294 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week2Examples$.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week2Examples.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$1.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$2.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$3.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$4.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$5.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$6.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$colored$1.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$scale$1.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week5$$anonfun$double$1.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week5$.class
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week5.class
+binary dependencies:
+9 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> /Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> /Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/jars/doodle_2.11-0.6.5.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/jars/doodle_2.11-0.6.5.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/jars/doodle_2.11-0.6.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Week2Examples
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Week2Examples$
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$1
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$2
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$3
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$4
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$5
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$6
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$colored$1
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4$$anonfun$scale$1
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Week5
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Week5$
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Week5$$anonfun$double$1
+used names:
+154 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> *
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> -
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> <init>
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> AnyRef
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Color
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Image
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Int
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Java2DCanvas
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> StandardInterpreter
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> Week2Examples
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> backend
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> below
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> beside
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> black
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> blue
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> circle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> concentricCircles
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> core
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> degrees
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> doodle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> empty
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> examples
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> fillColor
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> jvm
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> lineColor
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> nBoxes
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> nCircles
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> nColorSpin
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> nDepth
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> nRadiusFactor
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> on
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> package
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> rectangle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> red
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> scala
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> sequentialBoxes
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> sierpinskiTriangle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> spin
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> syntax
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> toDouble
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> triangle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> %
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> *
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> +
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> -
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> /
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> <init>
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> ==
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> >
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Angle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> AnyRef
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Color
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Double
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Function1
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Image
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Int
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Java2DCanvas
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Point
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> StandardInterpreter
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> Week4
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> _root_
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> angle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> answer
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> apply
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> at
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> backend
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> beside
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> blue
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> cartesian
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> cascadingShapes
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> circle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> color
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> colored
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> core
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> cos
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> degrees
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> desaturate
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> design
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> doodle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> empty
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> factor
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> fadeOut
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> fading
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> increment
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> jvm
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> lineColor
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> lineWidth
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> n
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> nDepth
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> normalized
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> on
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> one
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> package
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> polar
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> pt
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> r
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> sample
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> scala
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> shape
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> sin
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> size
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> spin
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> spinning
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> square
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> start
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> syntax
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> toDouble
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> toVec
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> triangle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> *
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> -
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> /
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> ::
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> <init>
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> A
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Angle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> AnyRef
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Double
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Image
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Instruction
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Int
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Java2DCanvas
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> List
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Nil
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> StandardInterpreter
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Turtle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> Week5
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> apply
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> backend
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> canBuildFrom
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> core
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> degrees
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> doodle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> draw
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> flatMap
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> forward
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> immutable
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> in
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> instructions
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> iter
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> iterations
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> jvm
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> n
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> one
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> package
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> rotation
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> scala
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> sideLength
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> sides
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> syntax
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> toDouble
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> turn
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> turtle
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> x
+product stamps:
+15 items
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week2Examples$.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week2Examples.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$1.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$2.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$3.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$4.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$5.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$6.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$colored$1.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$$anonfun$scale$1.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4$.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week4.class -> lastModified(1467730238000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week5$$anonfun$double$1.class -> lastModified(1467732543000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week5$.class -> lastModified(1467732543000)
+/Users/Shared/Johann/CreativeScala/target/scala-2.11/classes/Week5.class -> lastModified(1467732543000)
+source stamps:
+3 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> hash(21d8eb77aa6419e71723a6562ae02ca532c6abb5)
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> hash(d728a9d4a48eefd225417f83b04cff1399d38a37)
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> hash(5460cf0afaf1687d00712dea9656fffad27903cb)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428691365000)
+/Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/jars/doodle_2.11-0.6.5.jar -> lastModified(1466255817000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Double
+/Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/jars/doodle_2.11-0.6.5.jar -> doodle.core.Angle
+internal apis:
+3 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC2YPDNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cP2cA8R0AA9zZXF1ZW50aWFsQm94ZXNzcQB+AAxOSkAFdAAGbm90aWZ5c3EAfgAMtxgXdnQABHdhaXRzcQB+AAwNG6xtdAANJGFzSW5zdGFuY2VPZnNxAH4ADBlpnpF0ABFjb25jZW50cmljQ2lyY2xlc3NxAH4ADFy3KMJ0AAZlcXVhbHNzcQB+AAw9+mZfdAAMYXNJbnN0YW5jZU9mc3EAfgAMbcbB63QADHN5bmNocm9uaXplZHNxAH4ADIhvreJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1FaQL3QACW5vdGlmeUFsbHNxAH4ADGd8KRN0AAxpc0luc3RhbmNlT2ZzcQB+AAw//B6qdAANV2VlazJFeGFtcGxlc3NxAH4ADFJ6lZt0AAI9PXNxAH4ADLnn71J0AAVjbG9uZXNxAH4ADNR5CF50AAh0b1N0cmluZ3NxAH4ADPZTRdF0AAIhPXNxAH4ADLvVAAV0AAhnZXRDbGFzc3NxAH4ADCXqK9p0AAJuZXNxAH4ADLjb1BV0ABJzaWVycGluc2tpVHJpYW5nbGVzcQB+AAwmHd1xdAACZXFzcQB+AAwri3y0dAACIyNzcQB+AAzlPoUfdAAIZmluYWxpemVzcQB+AAwMcdK3dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBhc3EAfgBcdXEAfgBAAAAAAHNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHpzcQB+AG10AANBbnlzcQB+AHFzcQB+AHR1cQB+AHcAAAACc3EAfgB5dAAFc2NhbGFxAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVu4oUSHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvU2hhcmVkL0pvaGFubi9DcmVhdGl2ZVNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQh2Ot3qmQZ5xcjplYq4CylMsartQ==
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCEW39pAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cO0a9zp0AAZub3RpZnlzcQB+AAz45nkmdAAEd2FpdHNxAH4ADDeKT4Z0AA5vdXRsaW5lZENpcmNsZXNxAH4ADCOy5DB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGgn+EnQABHNpemVzcQB+AAz99fehdAAGY2lyY2xlc3EAfgAM6TxVhnQABmVxdWFsc3NxAH4ADJ0csaZ0AAVzY2FsZXNxAH4ADAugVL90AAxhc0luc3RhbmNlT2ZzcQB+AAyumndbdAAMc3luY2hyb25pemVkc3EAfgAMiK/Yx3QABVdlZWs0c3EAfgAMLWQiKXQADSRpc0luc3RhbmNlT2ZzcQB+AAzHjUPJdAAHY29sb3JlZHNxAH4ADJEtMmB0AAh0cmlhbmdsZXNxAH4ADDyYVud0AAlub3RpZnlBbGxzcQB+AAz2yrICdAAGc3F1YXJlc3EAfgAMtc6W6nQADGlzSW5zdGFuY2VPZnNxAH4ADKTt68F0AAZmYWRpbmdzcQB+AAwpTlhHdAAOY2lyY2xlT3JTcXVhcmVzcQB+AAwMSIH3dAACPT1zcQB+AAyfpWHpdAAFY2xvbmVzcQB+AAyNNpmRdAAGc2FtcGxlc3EAfgAMZExBAnQABmFuc3dlcnNxAH4ADC3Nn7p0AAh0b1N0cmluZ3NxAH4ADExh2GR0AAIhPXNxAH4ADLmF8wV0AAhnZXRDbGFzc3NxAH4ADIyjX5V0AAJuZXNxAH4ADDgJJ790ABBwYXJhbWV0cmljQ2lyY2xlc3EAfgAMfYoxCXQAAmVxc3EAfgAMU1Bko3QABHJvc2VzcQB+AAxeac1adAAIc3Bpbm5pbmdzcQB+AAzXZGxndAACIyNzcQB+AAzryYwodAAIZmluYWxpemVzcQB+AAyzDDmZdAAPY2FzY2FkaW5nU2hhcGVzc3EAfgAMSK69ZnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB0c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AeXNxAH4AdHVxAH4AWAAAAABzcQB+AHR1cQB+AFgAAAAAc3EAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB4dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB4c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCRdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCSc3EAfgCFdAADQW55c3EAfgCJc3EAfgCMdXEAfgCPAAAAAnNxAH4AkXQABXNjYWxhcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbuKFEh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL1NoYXJlZC9Kb2hhbm4vQ3JlYXRpdmVTY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1yip1KSO79IlQX+DsEz/E5nTijc=
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDzdu1cAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHX896x0AAZub3RpZnlzcQB+AAyl7MHmdAAEd2FpdHNxAH4ADHylDgx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMjLDNMHQAB3BvbHlnb25zcQB+AAx7836ldAAGZXF1YWxzc3EAfgAMWic6MXQADGFzSW5zdGFuY2VPZnNxAH4ADFCuQM50AAxzeW5jaHJvbml6ZWRzcQB+AAxd0uZ0dAANJGlzSW5zdGFuY2VPZnNxAH4ADMjtV4F0AAlub3RpZnlBbGxzcQB+AAzEm9q+dAAMaXNJbnN0YW5jZU9mc3EAfgAMWUEqQHQABmRvdWJsZXNxAH4ADCWj9Tx0AAI9PXNxAH4ADK+YecZ0AAVjbG9uZXNxAH4ADIHqkvx0AAxzaW1wbGVTcXVhcmVzcQB+AAyDT2izdAAIdG9TdHJpbmdzcQB+AAw+IYbmdAACIT1zcQB+AAyvJ3JRdAAIZ2V0Q2xhc3NzcQB+AAy2yPZbdAAMc3BpcmFsU3F1YXJlc3EAfgAMLb/XKHQAAm5lc3EAfgAMi2wgc3QABVdlZWs1c3EAfgAMZCvk6nQAAmVxc3EAfgAMGVcnhnQAAiMjc3EAfgAMhTdXX3QACGZpbmFsaXplc3EAfgAM4fAZG3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AY3NxAH4AXnVxAH4AQgAAAABzcQB+AF51cQB+AEIAAAAAc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBidAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB7dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8c3EAfgBvdAADQW55c3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3QABXNjYWxhcQB+AIJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbutOCl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL1NoYXJlZC9Kb2hhbm4vQ3JlYXRpdmVTY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUVGDPCvrxaH0AcS3qllb/+tJ5A8s=
+external apis:
+0 items
+source infos:
+3 items
+/Users/Shared/Johann/CreativeScala/src/main/scala/Session2.scala -> 
+AAAAAAAAAAA=
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week4.scala -> 
+AAAAAAAAAAA=
+/Users/Shared/Johann/CreativeScala/src/main/scala/Week5.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbuKFEh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9TaGFyZWQvSm9oYW5uL0NyZWF0aXZlU2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbuObnB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9TaGFyZWQvSm9oYW5uL0NyZWF0aXZlU2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbuYUR11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9TaGFyZWQvSm9oYW5uL0NyZWF0aXZlU2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbug+c51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9TaGFyZWQvSm9oYW5uL0NyZWF0aXZlU2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVbutOCl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9TaGFyZWQvSm9oYW5uL0NyZWF0aXZlU2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

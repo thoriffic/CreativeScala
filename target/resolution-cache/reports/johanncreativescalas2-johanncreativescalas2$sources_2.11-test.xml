@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="johanncreativescalas2"
+		module="johanncreativescalas2$sources_2.11"
+		revision="1.0"
+		conf="test"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20160705104216"/>
+	<dependencies>
+		<module organisation="underscoreio" name="doodle_2.11">
+			<revision name="0.6.5" status="release" pubdate="20160618091651" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="13">
+				<license name="Apache-2.0" url="http://apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache-2.0" url="http://apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3109" time="0" location="/Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/ivy-0.6.5.xml" searched="false" origin-is-local="false" origin-location="https://dl.bintray.com/underscoreio/training/underscoreio/doodle_2.11/0.6.5/doodle_2.11-0.6.5.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.5" rev-constraint-default="0.6.5" rev-constraint-dynamic="0.6.5" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="doodle_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="52045" time="0" location="/Users/am_dev/.ivy2/cache/underscoreio/doodle_2.11/srcs/doodle_2.11-0.6.5-sources.jar">
+						<origin-location is-local="false" location="https://dl.bintray.com/underscoreio/training/underscoreio/doodle_2.11/0.6.5/doodle_2.11-0.6.5-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="de.erichseifert.vectorgraphics2d" name="VectorGraphics2D">
+			<revision name="0.11" status="release" pubdate="20160605063822" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/eseifert/vectorgraphics2d/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="4">
+				<license name="GNU Library or Lesser General Public License (LGPL)" url="http://www.gnu.org/licenses/lgpl.txt"/>
+				<metadata-artifact status="no" details="" size="3053" time="0" location="/Users/am_dev/.ivy2/cache/de.erichseifert.vectorgraphics2d/VectorGraphics2D/ivy-0.11.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.11/VectorGraphics2D-0.11.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.11" rev-constraint-default="0.11" rev-constraint-dynamic="0.11" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="VectorGraphics2D" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="93360" time="0" location="/Users/am_dev/.ivy2/cache/de.erichseifert.vectorgraphics2d/VectorGraphics2D/srcs/VectorGraphics2D-0.11-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.11/VectorGraphics2D-0.11-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224617" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, compile(*), runtime, runtime(*), master(compile), master" position="0">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="4275" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats_2.11/0.6.0/cats_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="246" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats_2.11/srcs/cats_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats_2.11/0.6.0/cats_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-free_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224610" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="8">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3689" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-free_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats-free_2.11/0.6.0/cats-free_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats-free_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6559" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-free_2.11/srcs/cats-free_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats-free_2.11/0.6.0/cats-free_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-laws_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224628" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="3">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="4439" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-laws_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats-laws_2.11/0.6.0/cats-laws_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats-laws_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="44265" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-laws_2.11/srcs/cats-laws_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats-laws_2.11/0.6.0/cats-laws_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-core_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224649" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="14">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3817" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-core_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats-core_2.11/0.6.0/cats-core_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="95142" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-core_2.11/srcs/cats-core_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats-core_2.11/0.6.0/cats-core_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-kernel-laws_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224607" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="1">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3968" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-kernel-laws_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats-kernel-laws_2.11/0.6.0/cats-kernel-laws_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats-kernel-laws_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5092" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-kernel-laws_2.11/srcs/cats-kernel-laws_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats-kernel-laws_2.11/0.6.0/cats-kernel-laws_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="catalysts-platform_2.11">
+			<revision name="0.0.2" status="release" pubdate="20151109015437" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/InTheNow/catalysts" extra-info.apiURL="https://InTheNow.github.io/catalysts/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="9">
+				<license name="Apache License" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3319" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/catalysts-platform_2.11/ivy-0.0.2.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/catalysts-platform_2.11/0.0.2/catalysts-platform_2.11-0.0.2.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.0.2" rev-constraint-default="0.0.2" rev-constraint-dynamic="0.0.2" callerrev="1.0" extra-info.apiURL="https://InTheNow.github.io/catalysts/api/"/>
+				<artifacts>
+					<artifact name="catalysts-platform_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="663" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/catalysts-platform_2.11/srcs/catalysts-platform_2.11-0.0.2-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/catalysts-platform_2.11/0.0.2/catalysts-platform_2.11-0.0.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="catalysts-macros_2.11">
+			<revision name="0.0.2" status="release" pubdate="20151109015435" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/InTheNow/catalysts" extra-info.apiURL="https://InTheNow.github.io/catalysts/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="15">
+				<license name="Apache License" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3612" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/catalysts-macros_2.11/ivy-0.0.2.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/catalysts-macros_2.11/0.0.2/catalysts-macros_2.11-0.0.2.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.0.2" rev-constraint-default="0.0.2" rev-constraint-dynamic="0.0.2" callerrev="1.0" extra-info.apiURL="https://InTheNow.github.io/catalysts/api/"/>
+				<artifacts>
+					<artifact name="catalysts-macros_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1435" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/catalysts-macros_2.11/srcs/catalysts-macros_2.11-0.0.2-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/catalysts-macros_2.11/0.0.2/catalysts-macros_2.11-0.0.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="discipline_2.11">
+			<revision name="0.4" status="release" pubdate="20150721160309" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/discipline" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="6">
+				<license name="MIT" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="3064" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/discipline_2.11/ivy-0.4.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/discipline_2.11/0.4/discipline_2.11-0.4.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.4" rev-constraint-default="0.4" rev-constraint-dynamic="0.4" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="discipline_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4124" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/discipline_2.11/srcs/discipline_2.11-0.4-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/discipline_2.11/0.4/discipline_2.11-0.4-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalacheck" name="scalacheck_2.11">
+			<revision name="1.12.5" status="release" pubdate="20150915052952" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalacheck.org" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="18">
+				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="2671" time="0" location="/Users/am_dev/.ivy2/cache/org.scalacheck/scalacheck_2.11/ivy-1.12.5.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scalacheck/scalacheck_2.11/1.12.5/scalacheck_2.11-1.12.5.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="1.12.5" rev-constraint-default="1.12.5" rev-constraint-dynamic="1.12.5" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scalacheck_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="43310" time="0" location="/Users/am_dev/.ivy2/cache/org.scalacheck/scalacheck_2.11/srcs/scalacheck_2.11-1.12.5-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scalacheck/scalacheck_2.11/1.12.5/scalacheck_2.11-1.12.5-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-sbt" name="test-interface">
+			<revision name="1.0" status="release" pubdate="20130628184435" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-sbt.org" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="17">
+				<license name="BSD" url="https://github.com/sbt/test-interface/blob/master/LICENSE"/>
+				<metadata-artifact status="no" details="" size="2589" time="0" location="/Users/am_dev/.ivy2/cache/org.scala-sbt/test-interface/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="test-interface" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="18792" time="0" location="/Users/am_dev/.ivy2/cache/org.scala-sbt/test-interface/srcs/test-interface-1.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-kernel_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224622" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="5">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3101" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-kernel_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats-kernel_2.11/0.6.0/cats-kernel_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats-kernel_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21349" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-kernel_2.11/srcs/cats-kernel_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats-kernel_2.11/0.6.0/cats-kernel_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="cats-macros_2.11">
+			<revision name="0.6.0" status="release" pubdate="20160519224554" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/typelevel/cats" extra-info.apiURL="http://typelevel.org/cats/api/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="11">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="3401" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-macros_2.11/ivy-0.6.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/cats-macros_2.11/0.6.0/cats-macros_2.11-0.6.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.6.0" rev-constraint-default="0.6.0" rev-constraint-dynamic="0.6.0" callerrev="1.0" extra-info.apiURL="http://typelevel.org/cats/api/"/>
+				<artifacts>
+					<artifact name="cats-macros_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="836" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/cats-macros_2.11/srcs/cats-macros_2.11-0.6.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/cats-macros_2.11/0.6.0/cats-macros_2.11-0.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="machinist_2.11">
+			<revision name="0.4.1" status="release" pubdate="20150721104146" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/typelevel/machinist" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="2">
+				<license name="MIT" url="http://opensource.org/licenses/MIT"/>
+				<metadata-artifact status="no" details="" size="2811" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/machinist_2.11/ivy-0.4.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/machinist_2.11/0.4.1/machinist_2.11-0.4.1.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.4.1" rev-constraint-default="0.4.1" rev-constraint-dynamic="0.4.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="machinist_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3391" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/machinist_2.11/srcs/machinist_2.11-0.4.1-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/machinist_2.11/0.4.1/machinist_2.11-0.4.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.github.mpilquist" name="simulacrum_2.11">
+			<revision name="0.7.0" status="release" pubdate="20160130143002" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://github.com/mpilquist/simulacrum" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="10">
+				<license name="Three-clause BSD-style" url="https://github.com/mpilquist/simulacrum/blob/master/LICENSE"/>
+				<metadata-artifact status="no" details="" size="3013" time="0" location="/Users/am_dev/.ivy2/cache/com.github.mpilquist/simulacrum_2.11/ivy-0.7.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/com/github/mpilquist/simulacrum_2.11/0.7.0/simulacrum_2.11-0.7.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="0.7.0" rev-constraint-default="0.7.0" rev-constraint-dynamic="0.7.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="simulacrum_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5880" time="0" location="/Users/am_dev/.ivy2/cache/com.github.mpilquist/simulacrum_2.11/srcs/simulacrum_2.11-0.7.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/com/github/mpilquist/simulacrum_2.11/0.7.0/simulacrum_2.11-0.7.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.typelevel" name="macro-compat_2.11">
+			<revision name="1.1.0" status="release" pubdate="20151110063317" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/milessabin/macro-compat" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="16">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2838" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/macro-compat_2.11/ivy-1.1.0.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/typelevel/macro-compat_2.11/1.1.0/macro-compat_2.11-1.1.0.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="1.1.0" rev-constraint-default="1.1.0" rev-constraint-dynamic="1.1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="macro-compat_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1051" time="0" location="/Users/am_dev/.ivy2/cache/org.typelevel/macro-compat_2.11/srcs/macro-compat_2.11-1.1.0-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/typelevel/macro-compat_2.11/1.1.0/macro-compat_2.11-1.1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.7" status="release" pubdate="20150622161700" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/" downloaded="false" searched="false" default="false" conf="compile, compile(*), runtime, runtime(*), master(compile), master" position="12">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2825" time="0" location="/Users/am_dev/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.7.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="2.11.7" rev-constraint-default="2.11.7" rev-constraint-dynamic="2.11.7" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.7/"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="561516" time="0" location="/Users/am_dev/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.7-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-lang/scala-reflect/2.11.7/scala-reflect-2.11.7-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.8" status="release" pubdate="20160308231604" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.8/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, compile(*), runtime, runtime(*), master(compile), master" position="7">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.8.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.pom"/>
+				<caller organisation="johanncreativescalas2" name="johanncreativescalas2$sources_2.11" conf="test, compile, runtime" rev="2.11.8" rev-constraint-default="2.11.8" rev-constraint-dynamic="2.11.8" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.8/"/>
+				<artifacts>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="911686" time="0" location="/Users/am_dev/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
